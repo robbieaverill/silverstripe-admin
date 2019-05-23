@@ -9,6 +9,7 @@ import TimeField from 'components/TimeField/TimeField';
 import DatetimeField from 'components/DatetimeField/DatetimeField';
 import CheckboxField from 'components/CheckboxField/CheckboxField';
 import CheckboxSetField from 'components/CheckboxSetField/CheckboxSetField';
+import ConfirmedPasswordField from 'components/ConfirmedPasswordField/ConfirmedPasswordField';
 import OptionsetField from 'components/OptionsetField/OptionsetField';
 import GridField from 'components/GridField/GridField';
 import GridFieldActions from 'components/GridFieldActions/GridFieldActions';
@@ -55,6 +56,7 @@ export default () => {
     DatetimeField,
     CheckboxField,
     CheckboxSetField,
+    ConfirmedPasswordField,
     OptionsetField,
     GridField,
     GridFieldActions,

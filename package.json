@@ -85,7 +85,8 @@
     "toposort": "^1.0.3",
     "url": "^0.11.0",
     "validator": "^6.1.0",
-    "webpack-sources": "^1.1.0"
+    "webpack-sources": "^1.1.0",
+    "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
     "@emotion/core": "^0",
